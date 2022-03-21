@@ -1,13 +1,3 @@
-## Running React on Repl.it
+## Frontend for Wave Portal
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.# Frontend-Wave-Portal
+This is a basic react UI just to gain experience in using the ethers library. It dispays data that has been retrieved from the WavePortal smart contract I have placed on the ETH testnet.  
